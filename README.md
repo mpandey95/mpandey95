@@ -5,23 +5,23 @@
 **Senior Cloud & DevOps Engineer | MLOps | LLMOps | Platform Engineering**
 
 ![Experience](https://img.shields.io/badge/Experience-7%2B%20years-4ECDC4?style=flat)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Senior%20%2F%20Lead%20Roles-45B8AC?style=flat&logo=linkedin&logoColor=white)
+![Open%20to%20Work](https://img.shields.io/badge/Open%20to%20Work-Senior%20%2F%20Lead%20Roles-45B8AC?style=flat&logo=linkedin&logoColor=white)
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Cloud+Platforms;Automating+Everything+with+Code;Turning+Ideas+into+Production+Systems;Loving+DevOps+%2B+MLOps+%2B+Platform+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Cloud+Platforms;Automating+Everything+with+Code;Turning+Ideas+into+Production+Systems;DevOps+%7C+MLOps+%7C+Platform+Engineering" alt="Typing SVG" />
 </div>
 
 <br>
 
 ### About Me
 
-Results-driven Senior Cloud & DevOps Engineer with **7+ years of experience** building scalable, secure, and cost-efficient cloud platforms.
+Results-driven Senior Cloud & DevOps Engineer with **7+ years of experience** designing and operating production-grade, scalable, and secure cloud platforms.
 
-Currently at **Navadhan Capital**, I design and operate production-grade data platforms, MLOps pipelines, observability stacks, and Zero Trust infrastructure primarily on **Google Cloud**, while also managing multi-cloud environments and enterprise administration.
+Currently at **Navadhan Capital**, I architect and manage end-to-end data platforms, MLOps pipelines, observability stacks, and Zero Trust infrastructure — primarily on **Google Cloud** with multi-cloud exposure.
 
 I specialize in **GCP-native architectures**, **data orchestration (Airflow + Airbyte)**, **FinOps**, **comprehensive observability**, and **secure access & identity management**.
 
@@ -76,32 +76,30 @@ I specialize in **GCP-native architectures**, **data orchestration (Airflow + Ai
 
 ### 🚀 Featured Projects
 
-Here are some of the production-grade tools and platforms I've built:
-
 - **[airflow-data-pipelines](https://github.com/mpandey95/airflow-data-pipelines)**  
-  Production-grade Airflow orchestration on GCP with Airbyte ELT, BigQuery loading, Cloud Build CI/CD, and Teams alerting.
+  Production-grade Airflow orchestration on GCP with Airbyte ELT, BigQuery, Cloud Build CI/CD, and Teams alerting.
 
 - **[db_access_management](https://github.com/mpandey95/db_access_management)**  
-  Centralized Zero Trust database access control for GCP Cloud SQL + MongoDB Atlas using Google Workspace IAM, Twingate, and full audit logging.
+  Centralized Zero Trust database access control for GCP Cloud SQL + MongoDB Atlas with full audit logging.
 
 - **[finops-cloud](https://github.com/mpandey95/finops-cloud)**  
-  Multi-cloud FinOps CLI agent with AI-powered anomaly detection, waste identification, forecasting, and plain-English explanations.
+  Multi-cloud FinOps CLI agent with AI-powered anomaly detection and cost forecasting.
 
 - **[cloudrun-mongo-cred-rotator](https://github.com/mpandey95/cloudrun-mongo-cred-rotator)**  
   Secure automated MongoDB Atlas credential rotation on Cloud Run.
 
 - **[gcsfuse-auto-mount](https://github.com/mpandey95/gcsfuse-auto-mount)**  
-  Automated GCS FUSE mounting utility with multi-OS support (Linux) using Ansible, Python, Go & Bash.
+  Automated GCS FUSE mounting utility with multi-OS support using Ansible, Python, Go & Bash.
 
 ---
 
 ### 💼 Currently Open to Work
 
-I'm actively looking for **Senior / Lead roles** in:
+Actively seeking **Senior / Lead roles** in:
 - Cloud Platform Engineering
 - DevSecOps & Platform Engineering
 - MLOps / LLMOps / Data Platform Engineering
-- Multi-cloud & Observability-focused roles
+- Multi-cloud & Observability
 
 Especially in **fintech**, **SaaS**, or **AI-first** companies.
 
@@ -112,8 +110,7 @@ Especially in **fintech**, **SaaS**, or **AI-first** companies.
 
 ### 📊 GitHub Stats & Activity
 
-- **71 contributions** in the last year (April 2026)
-- Actively improving and open-sourcing production tools
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mpandey95&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
 Feel free to explore my repositories. Stars and feedback are always appreciated! ⭐
 

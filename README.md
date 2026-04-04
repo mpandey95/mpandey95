@@ -5,7 +5,7 @@
 **Senior Cloud & DevOps Engineer | MLOps | LLMOps | Platform Engineering**
 
 ![Experience](https://img.shields.io/badge/Experience-7%2B%20years-4ECDC4?style=flat)
-![Open%20to%20Work](https://img.shields.io/badge/Open%20to%20Work-Senior%20%2F%20Lead%20Roles-45B8AC?style=flat&logo=linkedin&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Senior%20%2F%20Lead%20Roles-45B8AC?style=flat&logo=linkedin&logoColor=white)
 
 </div>
 
@@ -33,7 +33,7 @@ I specialize in **GCP-native architectures**, **data orchestration (Airflow + Ai
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Linode](https://img.shields.io/badge/Linode-00A95C?style=flat&logo=linode&logoColor=white)
-![Utho](https://img.shields.io/badge/Utho-000000?style=flat&logo=utho&logoColor=white)
+![Utho](https://img.shields.io/badge/Utho-000000?style=flat)
 
 **Orchestration & Data**
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
@@ -111,6 +111,8 @@ Especially in **fintech**, **SaaS**, or **AI-first** companies.
 ### 📊 GitHub Stats & Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mpandey95&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+*Note: If the stats card doesn't load immediately, try refreshing the page (GitHub caches these images).*
 
 Feel free to explore my repositories. Stars and feedback are always appreciated! ⭐
 

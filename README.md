@@ -112,7 +112,7 @@ Especially in **fintech**, **SaaS**, or **AI-first** companies.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mpandey95&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-*Note: If the stats card doesn't load immediately, try refreshing the page (GitHub caches these images).*
+*Note: If the stats card doesn't load immediately, try refreshing the page (GitHub sometimes caches these images).*
 
 Feel free to explore my repositories. Stars and feedback are always appreciated! ⭐
 
@@ -121,7 +121,7 @@ Feel free to explore my repositories. Stars and feedback are always appreciated!
 ### 🌐 Let's Connect
 
 - **LinkedIn** → [Manish Pandey](https://www.linkedin.com/in/manish-pandey95/)
-- **Medium** → [@mnshkmrpnd](https://medium.com/@mnshkmrpnd)
+- **Medium** → [@mpandey95](https://medium.com/@mpandey95)
 - **Threads** → [@learningwithmanish](https://www.threads.net/@learningwithmanish)
 - **WhatsApp** → [Message me](https://wa.me/918765368754)
 

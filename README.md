@@ -5,6 +5,10 @@ Senior Cloud & DevOps Engineer | MLOps | LLMOps | Platform Engineering
 ![Experience](https://img.shields.io/badge/Experience-7%2B%20years-4ECDC4?style=flat)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Senior%20%2F%20Lead%20Roles-45B8AC?style=flat&logo=linkedin&logoColor=white)
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Cloud+Platforms;Automating+Everything+with+Code;Turning+Ideas+into+Production+Systems;DevOps+%7C+MLOps+%7C+Platform+Engineering" alt="Typing SVG" />
+</div>
+
 ---
 
 Building Scalable Cloud Platforms  

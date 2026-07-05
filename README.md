@@ -1,7 +1,6 @@
 <div align="center">
 # Hi, I'm Manish Pandey 👋
-**Senior Cloud & DevOps Engineer | MLOps | LLMOps | Platform Engineering**
-
+Senior Cloud & DevOps Engineer | MLOps | LLMOps | Platform Engineering
 ![Experience](https://img.shields.io/badge/Experience-7%2B%20years-4ECDC4?style=flat)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Senior%20%2F%20Lead%20Roles-45B8AC?style=flat&logo=linkedin&logoColor=white)
 </div>

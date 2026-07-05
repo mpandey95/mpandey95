@@ -7,10 +7,10 @@ Senior Cloud & DevOps Engineer | MLOps | LLMOps | Platform Engineering
 
 ---
 
-> Building Scalable Cloud Platforms  
-> Automating Everything with Code  
-> Turning Ideas into Production Systems  
-> DevOps | MLOps | Platform Engineering
+Building Scalable Cloud Platforms  
+Automating Everything with Code  
+Turning Ideas into Production Systems  
+DevOps | MLOps | Platform Engineering
 
 About Me
 
